@@ -136,3 +136,8 @@ Une **plateforme web** capable de :
 
 ## Lien GitHub  
 [https://github.com/AGhaziBla/Solution_Factory_Data/tree/main](https://github.com/AGhaziBla/Solution_Factory_Data/tree/main)
+
+---
+
+## Lien Report
+[https://docs.google.com/document/d/1lGXKOW_4rMJZqfk0nf7szGWHEY7ahk_R7fxTzzzoFI4/edit?usp=sharing](https://docs.google.com/document/d/1lGXKOW_4rMJZqfk0nf7szGWHEY7ahk_R7fxTzzzoFI4/edit?usp=sharing)
